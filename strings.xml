@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SENG405ResourceAssignment</string>
+    <string name="welcome_message">Hi, welcome to the game.</string>
+    <string name="game_info_message">Time starts when a player clicks the button.First click will start timer and Second click stop timer. Then, it is turn for other player. Game contunies for 20 seconds. Which player passes the 20 seconds will lose the game.</string>
+    <string name="timer_first_message">00:00:00</string>
+    <string name="restart_message">WANNA PLAY AGAIN?</string>
+    <string name="restart_message_from_beginning">WANNA PLAY AGAIN?(WITH DIFFERENT NAMES)</string>
+    <string name="timer_start_message">00:00</string>
+</resources>
